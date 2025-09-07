@@ -1,8 +1,6 @@
 ## Olá! Bem vindo(a) ao meu perfil!! 👋
 
-![Bianca](https://github-readme-stats.vercel.app/api?username=Bianca&show_icons=true&theme=dracula)
-
-          
+         
 <div style="display: inline_block"><br>
   <img align="center" alt="Bia-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Bia-.Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
