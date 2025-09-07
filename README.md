@@ -1,16 +1,6 @@
 ## Olá! Bem vindo(a) ao meu perfil!! 👋
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dracula)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+![Bianca](https://github-readme-stats.vercel.app/api?username=Bianca&show_icons=true&theme=dracula)
 
           
 <div style="display: inline_block"><br>
